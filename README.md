@@ -1,4 +1,4 @@
 # SayonLaha-demo
-This is my first Git Repostiory.
+This is my first Git Repository.
 <br>
 Author-Purnendu Laha
